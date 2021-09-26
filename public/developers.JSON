@@ -19,7 +19,7 @@
   },
   {
     "name": "Mr. SawOn",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/126289422_1560829127454462_8306099207712402810_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=MyxpSsOjfo0AX_qSq5N&_nc_ht=scontent.fzyl1-1.fna&oh=0ac0310b38ec40c2f1a3f6b2c3b10344&oe=61777C6D",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/sawon.jpg",
     "position": "Junior Developer",
     "sellery": 25000,
     "address": "Dhaka, Bangladesh",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Ariyan Islam Zovan",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t31.18172-8/19577031_411554652623970_612873737440270210_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=XcoTWoPdXJEAX-djC54&tn=_2NK306iqUjJryzo&_nc_ht=scontent.fzyl1-1.fna&oh=3b03863a583fe071f86f87d8bb18e110&oe=61765821",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/zovan.jpg",
     "position": "Junior Developer",
     "sellery": 25000,
     "address": "Narayanganj, Bangladesh",
@@ -37,16 +37,16 @@
   },
   {
     "name": "Jawad Bin Akib",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/139371809_194135462394782_6705722556336761400_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=Tg8JwGc0CPkAX8yV25u&_nc_ht=scontent.fzyl1-1.fna&oh=ca41e970b092dd6da9b44d4a35d11f84&oe=61766CFB",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/zawad.jpg",
     "position": "Junior Developer",
     "sellery": 22000,
-    "address": "Kashmir, Pakistan",
+    "address": "Chittagong, Bangladesh",
     "key": 454749856,
     "exp": "2years"
   },
   {
     "name": "Arafat Islam Mahim",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/229970891_1264131357357909_7498689635225257334_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9TvbjCw3yJQAX-Wasqf&tn=_2NK306iqUjJryzo&_nc_ht=scontent.fzyl1-1.fna&oh=684200f1f577cce58e4e70c9ef53686f&oe=61746E20",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/mahim.jpg",
     "position": "Junior Developer",
     "sellery": 15000,
     "address": "Sylhet, Bangladesh",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Asaldullahil Galib",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/241473094_368766061558258_6671624225907572904_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wgm72FyXcEoAX_fDnZE&_nc_ht=scontent.fzyl1-1.fna&oh=6c5186525fe9f5ffe80176f885927093&oe=61771EEC",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/galib.jpg",
     "position": "Junior Developer",
     "sellery": 23000,
     "address": "Nilphamari, Bangladesh",
@@ -64,7 +64,7 @@
   },
   {
     "name": "Rafiul Alam",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/135000644_2834793143444753_6016948105727731223_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jTuk7ddfdhkAX-jJ2AW&_nc_ht=scontent.fzyl1-1.fna&oh=c894985a467bab88585970f97bb945d2&oe=617668A9",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/rafi.jpg",
     "position": "Junior Developer",
     "sellery": 24000,
     "address": "Zossore, Bangladesh",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Orick Ori",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/242390058_4380688738685524_6500022841019438919_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=2kQvsNKjjdoAX86g3NE&_nc_ht=scontent.fzyl1-1.fna&oh=cb1887d2d2ea9e62f27f1cbf7146464d&oe=6175729B",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/orik.jpg",
     "position": "Senior Developer",
     "sellery": 42000,
     "address": "Sylhet, Bangladesh",
@@ -82,7 +82,7 @@
   },
   {
     "name": "Fakrul Hasan",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/129784420_202382934716569_2649459902322828952_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=iBWWkYXmU4UAX8MjLYf&_nc_ht=scontent.fzyl1-1.fna&oh=5b4b44741e6096967e9fcff3216ea218&oe=617570F6",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/fakrul.jpg",
     "position": "Junior Developer",
     "sellery": 26000,
     "address": "Nilphamari, Bangladesh",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Fahim Ahmed",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/150125874_1149943772192016_7094635069036199296_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=V7nG42S2JLsAX-BRX2W&_nc_ht=scontent.fzyl1-1.fna&oh=0728b3b915a8a8e3f0738b435254b5b9&oe=6175683A",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/fahim.jpg",
     "position": "Junior Developer",
     "sellery": 20000,
     "address": "Sylhet, Bangladesh",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Mahfuzur Rahman",
-    "img": "https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/240635528_539811143965215_7126436305280828757_n.jpg?_nc_cat=111&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=c2R7SJD-lSkAX8NmyUc&_nc_ht=scontent.fzyl1-1.fna&oh=113948b1857ae901534af3d6b6f1aea3&oe=61768BE9",
+    "img": "https://raw.githubusercontent.com/ibntofajjal/imgForReactDevsProject/main/mahfuz.jpg",
     "position": "Junior Developer",
     "sellery": 29000,
     "address": "Khulna, Bangladesh",
