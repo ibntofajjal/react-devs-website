@@ -1,10 +1,12 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Developer from "./component/Developer/Developer";
+import Header from "./component/Header/Header";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello world</h1>
+    <div className="App container">
+      <Header></Header>
+      <Developer></Developer>
     </div>
   );
 }

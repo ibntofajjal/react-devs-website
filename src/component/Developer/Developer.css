@@ -1,0 +1,8 @@
+.developer {
+  display: grid;
+  grid-template-columns: 4fr 2fr;
+}
+.developer-side {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
