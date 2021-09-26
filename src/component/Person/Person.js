@@ -16,7 +16,7 @@ const Person = (props) => {
               <img src={img} className="card-img-top img-fluid" alt="..." />
             </div>
             <div className="card-body">
-              <h4 className="card-title">{name}</h4>
+              <h5 className="card-title">{name}</h5>
               <h6 className="card-text text-danger">
                 <b>
                   <i>{position}</i>

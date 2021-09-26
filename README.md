@@ -9,3 +9,5 @@
 - This app is created by ReactJs
 - This app contains the identities of all the reactive developers of our company and their salaries
 - Font Awesome Icon Pack has been used as an icon in this app
+
+<img src="src/images/Screenshot_154.png">
