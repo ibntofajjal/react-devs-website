@@ -1,5 +1,5 @@
 import React from "react";
-import Salary from "../Salary/Salary";
+
 import "./Person.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlus, faMoneyBill } from "@fortawesome/free-solid-svg-icons";

@@ -2,8 +2,10 @@ import React from "react";
 import "./Salary.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDollarSign, faCheckCircle } from "@fortawesome/free-solid-svg-icons";
+import Name from "./Name/Name";
 const Salary = (props) => {
   const { detail } = props;
+
   let total = 0;
   for (const developer of detail) {
     total += developer.sellery;
@@ -19,8 +21,12 @@ const Salary = (props) => {
         </h5>
         <h5>
           '{moneyIcon} TOTAL : {total}
-        </h5>
-        <h5>SELECTED DEVELOPER </h5>
+        </h5>{" "}
+        <hr />
+        <h5>➤ SELECTED DEVELOPER </h5>
+        {detail.map((name) => (
+          <Name name={name}></Name>
+        ))}
       </div>
     </div>
   );
